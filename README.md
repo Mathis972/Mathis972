@@ -4,7 +4,7 @@
 
 - 🔭 I’m currently working on a website using an API
 - 🌱 I’m currently learning new technologies aswell as how to deploy said website
-- 🤔 I’m looking for an internship, don't hesitate to contact me 
+- 😳 I found an internship  
 - 📫 How to reach me: by mail mathis.marie.claire972@gmail.com
 - ⚡ Fun fact: I went to a fighting game tournament and got smashed
 
